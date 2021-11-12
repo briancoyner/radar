@@ -1,3 +1,7 @@
 name,ring,quadrant,isNew,description
 AR,Assess,Techniques,TRUE,Investigate AR functionality using offline spatial data
-SwiftUI,Trial,Languages and Frameworks,TRUE,Some comment goes here
+SwiftUI,Trial,Languages and Frameworks,TRUE,Some description
+Migrate To Compositional Layout,Assess,Languages and Frameworks,TRUE,Some description
+Xcode Cloud,Trial,Tools,TRUE,Worth the cost? 
+Fastlane,Trial,Tools,TRUE,Worth the effort to migrate now? 
+Kotlin Multiplatform,Trial,Platforms,TRUE,Some description
