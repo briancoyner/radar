@@ -1,4 +1,4 @@
-"name","ring","quadrant","isNew","description"
+name,ring,quadrant,isNew,description
 AR,Assess,Techniques,TRUE,Investigate AR functionality using offline spatial data
 SwiftUI,Trial,Languages and Frameworks,TRUE,Some description
 Migrate To Compositional Layout,Adopt,Languages and Frameworks,TRUE,Some description
@@ -8,3 +8,4 @@ Kotlin Multiplatform,Trial,Platforms,TRUE,Some description
 OperationQueue,Hold,Languages and Frameworks,FALSE,Keep it going for now
 Something Else,Trial,Platforms,FALSE,Something else goes here
 Something New,Trial,Platforms,TRUE,Something new
+Something Old,Hold,Platforms,FALSE,Something old
