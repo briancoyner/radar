@@ -1,4 +1,4 @@
-name,ring,quadrant,isNew,description
+"name","ring","quadrant","isNew","description"
 AR,Assess,Techniques,TRUE,Investigate AR functionality using offline spatial data
 SwiftUI,Trial,Languages and Frameworks,TRUE,Some description
 Migrate To Compositional Layout,Adopt,Languages and Frameworks,TRUE,Some description
