@@ -1,8 +1,8 @@
 name,ring,quadrant,isNew,description
-AR,Assess,Techniques,TRUE,<p>Investigate AR functionality using offline spatial data</p>
-SwiftUI,Trial,Languages and Frameworks,TRUE,<p>Some description</p>
-Migrate To Compositional Layout,Adopt,Languages and Frameworks,TRUE,<p>Some description</p>
-Xcode Cloud,Trial,Tools,TRUE,<p>Worth the cost?</p>
-Fastlane,Trial,Tools,TRUE,<p>Worth the effort to migrate now?</p>
-Kotlin Multiplatform,Trial,Platforms,TRUE,<p>Some description</p>
-OperationQueue,Hold,Languages and Frameworks,FALSE,<p>Keep it going for now</p>
+AR,Assess,Techniques,TRUE,"Investigate AR functionality using offline spatial data"
+SwiftUI,Trial,Languages and Frameworks,TRUE,"Some description"
+Migrate To Compositional Layout,Adopt,Languages and Frameworks,TRUE,"Some description"
+Xcode Cloud,Trial,Tools,TRUE,"Worth the cost?"
+Fastlane,Trial,Tools,TRUE,"Worth the effort to migrate now?"
+Kotlin Multiplatform,Trial,Platforms,TRUE,"Some description"
+OperationQueue,Hold,Languages and Frameworks,FALSE,"Keep it going for now"
